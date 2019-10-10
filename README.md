@@ -6,7 +6,7 @@ Hello world
 ===========
 Hello world mini
 -----------------
-Emphasis in *italitcs*
-Emphasis in **bold**
-Combined in -**bold italics**-
-Strikethrough is ~~Scratch this~~
+Emphasis in *italitcs*  
+Emphasis in **bold**  
+Combined in **_bold italics_**  
+Strikethrough is ~~Scratch this~~  
