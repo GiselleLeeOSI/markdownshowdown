@@ -38,5 +38,5 @@ quotes
 1. any number will do
 1. numbers are awesome
 
-* A list with a code block: 
+* A list with a code block:
     Code block with two tabs or eight spaces
