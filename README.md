@@ -23,10 +23,10 @@ Strikethrough is ~~Scratch this~~
 unblocked
 quotes
 
-*list
-*list
-*list
+* for list items, use asterisk with space
+* list
+* list
 
--list
--list
--list
+- same with a hyphen for a list
+- list
+- list
