@@ -30,3 +30,13 @@ quotes
 - same with a hyphen for a list
 - list
 - list
+
++ or a plus sign
++ another plus sign for a list
+
+1. numbers mark a ordered list
+1. any number will do
+1. numbers are awesome
+
+* A list with a code block: 
+    Code block with two tabs or eight spaces
