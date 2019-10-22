@@ -5,7 +5,7 @@ Management > Tenants
 (Account-level should be hyphenated)
 
 Sequential Data Store >
-The Sequential Data Store (SDS) is a cloud-based database that is optimized for storing sequential data, usually a time-series but anything that is indexed by an ordered sequence. You use SDS to store, retrieve, and analyze data. 
+The Sequential Data Store (SDS) is a cloud-based streaming data storage that is optimized for storing sequential data, usually a time-series, but anything that is indexed by an ordered sequence. You use SDS to store, retrieve, and analyze data. 
 
 An SdsType (used interchangeably with type throughout documentation) defines the shape of a single measured event or object. An SdsStream (used interchangeably with stream throughout documentation) has an associated SdsType and stores a stream of events or objects that take the shape of that type.
 
