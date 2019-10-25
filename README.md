@@ -18,7 +18,7 @@ Streams are instance of the type. Each stream will have a series of events.
 
 Namespace a container for types and streams. 
 
-
+ [Indexes](xref:sdsIndexes)
 
 
 
