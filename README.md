@@ -7,7 +7,10 @@ Management > Tenants
 Sequential Data Store >
 The Sequential Data Store (SDS) is a cloud-based streaming data storage that is optimized for storing sequential data, usually a time-series, but anything that is indexed by an ordered sequence. You use SDS to store, retrieve, and analyze data. 
 
-An SdsType (used interchangeably with type throughout documentation) defines the shape of a single measured event or object. An SdsStream (used interchangeably with stream throughout documentation) has an associated SdsType and stores a stream of events or objects that take the shape of that type.  
+An SdsType (used interchangeably with type throughout documentation) defines the shape of a single measured event or object. A type gives structure to your data. For example, if you're measuring three things (longitute, latitude, speed) from a device at the same time, then you want those three properties to be included in your tytpe. An SdsStream (used interchangeably with stream throughout documentation) is an instance of the type you have defined. Each stream is made up of a series of instances (or events). 
+
+
+===
 
 Types are equivalent to int32, float32, string. Can be defined in any way you like. Things that are measured at the same time (index), at the same place on a same device. In a sensor in an application, you want to give it a structure. You define a type with the way the data should be represented in mind. Do it for the application reason, not for the storage persistence reason. If the sensor is measuring three things at the same time, you should store those in the same type. 
 
