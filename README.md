@@ -21,6 +21,7 @@ Namespace a container for types and streams.
  [Indexes](xref:sdsIndexes)
 
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 # markdownshowdown
 ## This would be the second heading
