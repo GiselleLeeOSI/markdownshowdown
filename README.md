@@ -1,3 +1,5 @@
+''string ``
+
 Management > Namespace
 Think of namespace as a logical database where streams and other objects are stored by account.
 
