@@ -1,5 +1,6 @@
 ``string** **``
-`string* *`
+`string*space*`
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 Management > Namespace
 Think of namespace as a logical database where streams and other objects are stored by account.
