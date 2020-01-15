@@ -2,6 +2,10 @@
 `string*space*`
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
+|heading| description|
+--------|----------
+device!!*space* | space after device!! 
+
 Management > Namespace
 Think of namespace as a logical database where streams and other objects are stored by account.
 
