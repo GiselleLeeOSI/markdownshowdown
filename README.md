@@ -183,7 +183,7 @@ A status code and entitlement definition in a body
 ```
 
 ## Update entitlement
-Updates the definition of entitlement. Update doest not propogate to the entitlement that is already assigned to tenants. 
+Updates the definition of entitlement. Update does not propogate to the entitlement that is already assigned to tenants. 
 
 ### Request
 ```text
