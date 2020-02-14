@@ -58,7 +58,7 @@ A new entitlement table is created in the System Service database to store entit
 |LimitType  |Int  |  |No  |
 |DefaultValue  |Int  |  |No  |
 
-##Tenant entitlement table
+## Tenant entitlement table
 A tenant entitlement table will be created in the database to store tenant entitlement definition.
 
 |Column| Type | Constraints  |Nullable  |
