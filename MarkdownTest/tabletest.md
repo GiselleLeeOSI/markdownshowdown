@@ -1,3 +1,8 @@
+---
+uid: tableTest
+---
+
+# Create a table in markdown
 
 |Entitlement | Default value |
 |--|--|
