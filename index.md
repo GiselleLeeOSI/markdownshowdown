@@ -5,4 +5,4 @@ uid: index
 # Ji Won's test repo
 
 Welcome to Ji Won's test repo. I'm investigating how markdown files in this repo becomes an html page with a designated url.
-If possible, I also want to see what static site generation options are out there. Want to see in what docfx integration comes into the picture.
+If possible, I also want to see what static site generation options are out there. Want to see in when docfx integration comes into the picture.
