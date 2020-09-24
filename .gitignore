@@ -1,4 +1,8 @@
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
 _site/
-obj/
-/.vs/OCS-Docs/v16/TestStore/0
+/.html
 /.vs
