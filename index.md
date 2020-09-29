@@ -10,6 +10,7 @@ If possible, I also want to see what static site generation options are out ther
 
    - [Markdown Test](#sandbox)
    - [Who](#name)
+
 Links to other topics
--[Sandbox](#Documentation/MarkdownTest/sandbox)
--[Table Test](#Documentation/MarkdownTest/sandbox)
+-[Sandbox](/Documentation/MarkdownTest/sandbox)
+-[Table Test](/Documentation/MarkdownTest/sandbox)
