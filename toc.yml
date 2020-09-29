@@ -1,11 +1,4 @@
-- name: Markdown showdown
+- name: Home
   href: index.md
   homepage: index.md
-- name: Markdown Test
-  href: MarkdownTest/toc.yml
-  topicHref: MarkdownTest/sandbox.md
-- name: Who dat
-  href: Who/toc.yml
-  topicHref: Who/Name.md
-
-
+  
